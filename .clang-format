@@ -63,9 +63,9 @@ BraceWrapping:
     AfterClass: true
     AfterControlStatement: false
     AfterEnum: false
-    AfterFunction: false
+    AfterFunction: true
     AfterNamespace: true
-    AfterObjCDeclaration: false
+    AfterObjCDeclaration: true
     AfterStruct: false
     AfterUnion: false
     BeforeCatch: false
