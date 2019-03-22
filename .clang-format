@@ -70,7 +70,7 @@ BraceWrapping:
     AfterUnion: false
     BeforeCatch: false
     BeforeElse: false
-    IndentBraces: true
+    IndentBraces: false
 
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
